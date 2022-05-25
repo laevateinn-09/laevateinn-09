@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laevateinn-09
-- 📫 How to reach me @velius.art
+- 📫 
 
 <!---
 laevateinn-09/laevateinn-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
