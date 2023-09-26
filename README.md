@@ -45,7 +45,7 @@ My fascination with the intersection of art and technology has fueled my academi
       alt="gitbook" height="30" width="40" /></a>
 <h4 align="left">Itch.io: </h4>
   <a href="https://portofolio-3.gitbook.io/portofolio-albert/" target="blank"><img align="center"
-      src="https://github.com/laevateinn-09/laevateinn-09/assets/91774625/e86f4614-8e23-44be-aabd-3fe071675bb8"
+      src="https://github.com/laevateinn-09/laevateinn-09/assets/91774625/c6df7693-b99d-44b1-8326-e6635b3a78f2"
       alt="gitbook" height="30" width="40" /></a>
 
 </p>
