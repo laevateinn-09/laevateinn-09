@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Albert 👋</h1>
+![uU6fYw](https://github.com/laevateinn-09/laevateinn-09/assets/91774625/8ce1484a-a431-4c42-a211-6bd8d9bd26ec)<h1 align="center">Hi, I'm Albert 👋</h1>
 <h3 align="center">Student at BINA NUSANTARA University, Currently Minoring in Game Application Technology🌟.</h3>
 
 <br>
@@ -86,8 +86,9 @@ My fascination with the intersection of art and technology has fueled my academi
 
 <br>
 
-<p><img align="center" src="https://github.com/laevateinn-09/laevateinn-09/assets/91774625/3c09332f-87a0-474e-a0a0-a654db27f5e3" alt="I Liked It." />
+<p><img align="center" src="https://github.com/laevateinn-09/laevateinn-09/assets/91774625/817990d1-6244-4e7a-8a0f-b1dcab326884" alt="I Liked It." />
 </p>
+
 <br>
 <h3>My itch.io Page</h3>
 <p align="left"> <a href="https://vel1us.itch.io/" target="blank"><img
