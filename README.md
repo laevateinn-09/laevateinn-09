@@ -1,4 +1,4 @@
-![uU6fYw](https://github.com/laevateinn-09/laevateinn-09/assets/91774625/8ce1484a-a431-4c42-a211-6bd8d9bd26ec)<h1 align="center">Hi, I'm Albert 👋</h1>
+<h1 align="center">Hi, I'm Albert 👋</h1>
 <h3 align="center">Student at BINA NUSANTARA University, Currently Minoring in Game Application Technology🌟.</h3>
 
 <br>
