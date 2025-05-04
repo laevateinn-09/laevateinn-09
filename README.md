@@ -6,7 +6,7 @@
 <br>
 
 
-<p><img align="right" src="https://github.com/laevateinn-09/laevateinn-09/assets/91774625/22353576-2a37-4ffb-a8fa-da5cc6dc5014" alt="velius" /></p>
+<p><img align="right" src="" alt="velius" /></p>
 
 
 ⦿ 🌱 I’m currently learning Game Development, 2D Illustration, 3D Sculpting, and many more.
