@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Albert 👋</h1>
-<h3 align="center">Student at BINA NUSANTARA University, Currently Minoring in Game Application Technology🌟.</h3>
+<h3 align="center">Aspiring Game Dev & Artist🌟.</h3>
 
 <br>
 
